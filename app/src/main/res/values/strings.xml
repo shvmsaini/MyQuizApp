@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My quiz app</string>
+    <string name="false_button">False</string>
+    <string name="true_button">True</string>
+
+    <string name="incorrect_toast">You can do better 😫</string> <!--toast -->
+    <string name="correct_toast">You got it! 😍</string> <!--toast -->
+
+
+    <string name="scores">Score 0/10</string>
+    <string name="question_1">Shivam likes manchurian.</string>
+    <string name="question_2">He likes bollywood music.</string>
+    <string name="question_3">He likes beaches over mountains.</string>
+    <string name="question_4">He is afraid of dogs</string>
+    <string name="question_5">He has a meme page.</string>
+    <string name="question_6">He is cute xD </string>
+    <string name="question_7">He like books</string>
+    <string name="question_8">He don\'t hollywood movies</string>
+    <string name="question_9">And he is lazy af</string>
+    <string name="question_10">and you are cute ;) </string>
+</resources>
